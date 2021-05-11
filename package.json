@@ -12,6 +12,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@bojagi/cli": "^0.16.2-next.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
   },
